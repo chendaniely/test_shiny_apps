@@ -1,0 +1,5 @@
+ipykernel
+shiny
+pytest
+pytest-playwright
+shiny_adaptive_filter
